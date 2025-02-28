@@ -23,4 +23,3 @@ This is an example repository with tests in the `tests/examples/` directory. To 
 
 ---
 ### Frequently Asked Questions
-2. For Test with `test.skip` and Qase ID defined, a new test case is created rather than linking the skipped results with the existing test cases. [[Read more]](./FAQ/test.skip-creates-new-test-case.md)
